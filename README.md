@@ -32,3 +32,5 @@ Standard GCN training assumes a roughly balanced class distribution at the node 
   doi={10.21428/594757db.0041f830}
 }
 ```
+
+<!-- maint 2023-06 -->
